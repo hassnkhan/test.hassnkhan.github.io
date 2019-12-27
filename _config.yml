@@ -1,1 +1,4 @@
 name: Hassan Khan
+
+
+permalink: /blog/:year/:month/:day/:title
