@@ -22,9 +22,9 @@ title: Hassan Khan
 email: hassnkhan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hassan Khan's personal website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://hassnkhan.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @hassankhan
+baseurl: "/hassnkhan" # the subpath of your site, e.g. /blog
+url: "https://hassnkhan.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: hassankhan
 
 # Build settings
 theme: jekyll-theme-minimal
